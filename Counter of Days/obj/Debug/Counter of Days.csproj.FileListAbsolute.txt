@@ -1,0 +1,14 @@
+C:\Users\Nemanja Stepanović\Desktop\Counter of Days\Counter of Days\bin\Debug\Counter of Days.exe.config
+C:\Users\Nemanja Stepanović\Desktop\Counter of Days\Counter of Days\bin\Debug\Counter of Days.exe
+C:\Users\Nemanja Stepanović\Desktop\Counter of Days\Counter of Days\bin\Debug\Counter of Days.pdb
+C:\Users\Nemanja Stepanović\Desktop\Counter of Days\Counter of Days\obj\Debug\Counter of Days.csprojAssemblyReference.cache
+C:\Users\Nemanja Stepanović\Desktop\Counter of Days\Counter of Days\obj\Debug\Counter of Days.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Stepanović\Desktop\Counter of Days\Counter of Days\obj\Debug\Counter of Days.exe
+C:\Users\Nemanja Stepanović\Desktop\Counter of Days\Counter of Days\obj\Debug\Counter of Days.pdb
+D:\Radovi iz programiranja\Counter of Days\Counter of Days\bin\Debug\Counter of Days.exe.config
+D:\Radovi iz programiranja\Counter of Days\Counter of Days\bin\Debug\Counter of Days.exe
+D:\Radovi iz programiranja\Counter of Days\Counter of Days\bin\Debug\Counter of Days.pdb
+D:\Radovi iz programiranja\Counter of Days\Counter of Days\obj\Debug\Counter of Days.csprojAssemblyReference.cache
+D:\Radovi iz programiranja\Counter of Days\Counter of Days\obj\Debug\Counter of Days.csproj.CoreCompileInputs.cache
+D:\Radovi iz programiranja\Counter of Days\Counter of Days\obj\Debug\Counter of Days.exe
+D:\Radovi iz programiranja\Counter of Days\Counter of Days\obj\Debug\Counter of Days.pdb
